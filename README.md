@@ -8,7 +8,7 @@
 - 💪 This is where I write, code and solve problems:
 ###
 <div align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode.svg"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode"/>
 </div>
 
 ###
