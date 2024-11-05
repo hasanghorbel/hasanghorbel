@@ -8,7 +8,7 @@
 - 💪 This is where I write, code and solve problems:
 ###
 <div align="left">
-  <a ref="https://leetcode.com/u/hasanghorbel/" >
+  <a href="https://leetcode.com/u/hasanghorbel/" >
     <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" />
   <a/> 
   <img width="12" />
