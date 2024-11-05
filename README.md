@@ -8,11 +8,14 @@
 - 💪 This is where I write, code and solve problems:
 ###
 <div align="left">
-  <img  width="12" src="https://cdn.simpleicons.org/leetcode"/>
-  <img width="12" src="https://cdn.simpleicons.org/stackoverflow"/>
-
+  <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode"/>
+  <img width="12" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"/>
+  <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin"/>
+  <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/codeforces"/>
+  <img width="12" />
 </div>
 
 ###
