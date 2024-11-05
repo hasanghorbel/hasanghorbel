@@ -10,8 +10,9 @@
 <div align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/codeforces"/>
+
   <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/codeforces"/>
 </div>
 
 ###
