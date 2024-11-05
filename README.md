@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThndjludDQ2MW15eHpja2M1ZzhnajloYzI5eWZzbGtweHVzZG8xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/jnbvNSt7xPPEiWfCPu/giphy.mp4"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThndjludDQ2MW15eHpja2M1ZzhnajloYzI5eWZzbGtweHVzZG8xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/jnbvNSt7xPPEiWfCPu/giphy-downsized-large.gif"  />
 
 ###
 
