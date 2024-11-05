@@ -8,7 +8,9 @@
 - 💪 This is where I write, code and solve problems:
 ###
 <div align="left">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rust.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/leetcode.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stackoverflow.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/producthunt.svg" />
 </div>
 
 ###
