@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/rust/F65108"/>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/rust/F65108"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
