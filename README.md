@@ -9,6 +9,9 @@
 ###
 <div align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/project-euler"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin"/>
 </div>
 
 ###
