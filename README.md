@@ -12,9 +12,13 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" />
   <a/> 
   <img width="12" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow" ref="https://stackoverflow.com/users/20913589/isekai-code" />
+  <a href="https://stackoverflow.com/users/20913589/isekai-code" >
+    <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"  />
+  <a/> 
   <img width="12" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/codeforces" ref="https://codeforces.com/profile/hasanghorbel" />
+  <a href="https://codeforces.com/profile/hasanghorbel" >
+    <img height="32" width="32" src="https://cdn.simpleicons.org/codeforces"  />
+  <a/> 
   <img width="12" />
 </div>
 
