@@ -25,7 +25,7 @@
   <a/> 
   <img width="12" />
   <a href="https://projecteuler.net/progress=hsan" >
-    <img height="32" width="32" src="https://cdn.simpleicons.org/projecteuler"  />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/p"  />
   <a/> 
   <img width="12" />
 </div>
