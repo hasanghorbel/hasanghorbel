@@ -16,13 +16,10 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"  />
   <a/> 
   <img width="12" />
-  <a href="https://codeforces.com/profile/hasanghorbel" >
-    <img height="32" width="32" src="https://cdn.simpleicons.org/codeforces"  />
-  <a/> 
-  <img width="12" />
   <a href="https://www.linkedin.com/in/hasan-ghorbel-847038287" >
     <img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg"  />
   <a/> 
+  <img width="12" />
 </div>
 
 ###
