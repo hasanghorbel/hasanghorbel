@@ -21,7 +21,7 @@
   <a/> 
   <img width="12" />
   <a href="https://www.linkedin.com/in/hasan-ghorbel-847038287" >
-    <img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg"  />
+    <img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg"  />
   <a/> 
 </div>
 
