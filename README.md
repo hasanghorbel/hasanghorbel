@@ -23,11 +23,6 @@
   <a href="https://www.linkedin.com/in/hasan-ghorbel-847038287" >
     <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin"  />
   <a/> 
-  <img width="12" />
-  <a href="https://projecteuler.net/progress=hsan" >
-    <img height="32" width="32" src="https://cdn.simpleicons.org/github"  />
-  <a/> 
-  <img width="12" />
 </div>
 
 ###
